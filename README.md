@@ -6,4 +6,3 @@ This repo is to assist testing of golang/dep with glide. The glide.yaml requires
 | eq081 | =0.8.1 |
 | gt100 | ^1.0.0 |
 | 2.0.0 | version unspecified |
-| 2.1.0 | corrupt glide.yaml |
