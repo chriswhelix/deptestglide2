@@ -1,4 +1,4 @@
 package: github.com/chriswhelix/deptestglide2
 import:
 - package: github.com/sdboyer/deptest
-  version: ^0.8.0
+  version: 0.8.1
